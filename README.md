@@ -22,11 +22,11 @@ __
 ## User interface
 ### Main menu 
 #### Main menu is widget in a separate level. The game starts from this level 
-![image](https://github.com/RomanChmykh/TheCatchUp--Only-UE5-Cpp/assets/127239018/ce2f4298-eba1-4f87-b25f-ffb964b9c392)
+![image](https://github.com/RomanChmykh/TheCatchUp--UE5-Cpp/assets/127239018/14b9146b-c62f-4c9b-a466-a5c90905eb65)
 ### Menu pause 
-![image](https://github.com/RomanChmykh/TheCatchUp--Only-UE5-Cpp/assets/127239018/14f9c678-e7ab-47e7-af2e-0063c9371c1e)
+![image](https://github.com/RomanChmykh/TheCatchUp--UE5-Cpp/assets/127239018/082b4201-ce0f-4e42-a89f-a822fe08ed7e)
 ### A counter to show the number of red balls in a level
-![image](https://github.com/RomanChmykh/TheCatchUp--Only-UE5-Cpp/assets/127239018/d11629f6-14ec-4192-b657-19fc4c34c162)
+![image](https://github.com/RomanChmykh/TheCatchUp--UE5-Cpp/assets/127239018/1d051bd9-057d-4b3f-89fd-9255de2d13f6)
 
 ## Gameplay
 
