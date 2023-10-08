@@ -30,4 +30,4 @@ __
 
 ## Gameplay
 
-https://github.com/RomanChmykh/TheCatchUp--UE5-Cpp/assets/127239018/29e38dac-05de-46ff-818a-e5658b906d1d
+https://github.com/RomanChmykh/TheCatchUp--UE5-Cpp/assets/127239018/062d0367-060e-4185-ba38-ba7d82f3cee7
