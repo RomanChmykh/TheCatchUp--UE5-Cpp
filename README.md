@@ -25,7 +25,7 @@ __
 ![image](https://github.com/RomanChmykh/TheCatchUp--UE5-Cpp/assets/127239018/14b9146b-c62f-4c9b-a466-a5c90905eb65)
 ### Menu pause 
 ![image](https://github.com/RomanChmykh/TheCatchUp--UE5-Cpp/assets/127239018/082b4201-ce0f-4e42-a89f-a822fe08ed7e)
-### A counter to show the number of red balls in a level
+### A counter to show the numbers of red balls in a level
 ![image](https://github.com/RomanChmykh/TheCatchUp--UE5-Cpp/assets/127239018/1d051bd9-057d-4b3f-89fd-9255de2d13f6)
 
 ## Gameplay
